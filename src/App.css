@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,23 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.route {
+  display: flex;
+  justify-content: center;
+}
+.route .link {
+  width: 10%;
+  margin: 20px 0px 20px 20px;
+  background-color: rgb(107, 114, 128);
+}
+.route .link .next-page {
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
 }

@@ -1,0 +1,10 @@
+h2 {
+    text-align: center;
+}
+.btn-logout {
+    width: 100%;
+    background-color: rgb(220, 38, 38);
+}
+.content {
+    margin: 20% 40%;
+}
